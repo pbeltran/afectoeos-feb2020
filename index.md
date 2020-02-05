@@ -19,9 +19,6 @@ widescreen: true
 [https://pbeltran.github.io/afectoeos-feb2020](http://pbeltran.github.io/afectoeos-feb2020)
 
 
-# 
-
-
 
 # Créditos y referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"} 
 
